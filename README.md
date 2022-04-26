@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xt-avenirdata
 - 👀 I’m interested in video games, machine learning
-- 🌱 I’m currently learning Data science, Machine learning, Devellopment.
+- 🌱 I’m currently learning Data science, Data Analysis & Science and the last one, Machine learning, Devellopment.
 - 💞️ I’m looking to collaborate on, surprise me.
 - 📫 How to reach me ...
 
